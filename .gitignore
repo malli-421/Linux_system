@@ -1,0 +1,8 @@
+*.o
+*.out
+*.log
+*.swp
+*.exe
+build/
+.vscode/
+__pycache__/
